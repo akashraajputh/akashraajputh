@@ -23,8 +23,8 @@ I'm a passionate and curious developer who loves turning ideas into reality with
 ### 🛰️ Highlights
 
 - 🛰️ **Intern @ ISRO** – Worked on **Artificial Intelligence** based projects  
-- 🛠️ **ITI in Fitter + Diploma in Civil Engineering (83.77%)**  
-- 📊 **Past Role:** Insurance Advisor at ICICI Prudential  
+- 🛠️ * Python Developer Intern At safe your web
+- 📊 *Working on project At Minstry of Electronic and Technology Government of India  
 - 🧠 Always upskilling – from TOC and CFGs to Cybersecurity and Beyond
 
 ---
@@ -36,7 +36,6 @@ I'm a passionate and curious developer who loves turning ideas into reality with
 ### 📫 Let's Connect!
 
 - 📧 Email: kmrakash350@gmail.com  
-- 📱 Contact: +91 9508849717  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/akash-singh-rajput-322769251/) | 
 
 ---
